@@ -1,6 +1,3 @@
-import Image from "next/image";
-import Link from "next/link";
-import pic from "@/app/images/pic.png";
 import { FaLinkedin } from "react-icons/fa";
 import { FaFacebookSquare } from "react-icons/fa";
 import { FaSquareGithub } from "react-icons/fa6";

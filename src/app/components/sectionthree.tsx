@@ -1,6 +1,5 @@
 import Image from "next/image";
 import pic from "@/app/images/pic.png";
-import Link from "next/link";
 export default function SectionThree() {
   return (
     <div>

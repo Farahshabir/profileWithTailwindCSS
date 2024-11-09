@@ -1,7 +1,6 @@
 import Image from "next/image";
 import pic from "@/app/images/pic.png";
 import Header from "@/app/components/header";
-import Link from "next/link";
 export default function Contact() {
   return (
     <div>

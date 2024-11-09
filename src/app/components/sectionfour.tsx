@@ -1,10 +1,8 @@
 import Image from "next/image";
-import pic from "@/app/images/pic.png";
 import blog from "@/app/images/blog.png";
 import figmaProject1 from "@/app/images/figmaProject1.png";
 import assignment3 from "@/app/images/assignment3.png";
 import pana from "@/app/images/pana.png";
-import Link from "next/link";
 export default function SectionFour() {
   return (
     <div>

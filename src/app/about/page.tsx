@@ -7,7 +7,6 @@ import { FaSquareGithub } from "react-icons/fa6";
 import { FaAdversal } from "react-icons/fa";
 import { FaSquareUpwork } from "react-icons/fa6";
 import { FaSquareTwitter } from "react-icons/fa6";
-import Link from "next/link";
 export default function About() {
   return (
     <div>
